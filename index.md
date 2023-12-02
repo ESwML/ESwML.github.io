@@ -1,4 +1,4 @@
-# Machine Learning Support for The Lifetime of Software (ML4SW)
+# Empowering Software through Machine Learning (ESwML)
 
 # Overview
 
@@ -50,7 +50,7 @@ This workshop will actively drive discussion and aim to answer the following que
 ---
 
 # Registration
-Attendance at this workshop is part of the registration for PPoPP 2024. See [here](https://conf.researchr.org/series/PPoPP) to register.
+Attendance at this workshop is part of the registration for Eurosys 2024. See [here](http://2024.eurosys.org/) to register.
 
 # Topics of Interest
 Topics of interest to the ML4SW workshop include but are not limited to:
