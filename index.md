@@ -24,7 +24,7 @@ This workshop will actively drive discussion and aim to answer the following que
 - William Moses (University of Illinois Urbana Champaign, USA), wsmoses at illinois.edu
 - Konstantinos Parasyris (Lawrence Livermore National Laboratory, USA) parasyris1 at llnl.gov
 
-## Program Committee (will be extended upon acceptance)
+## Program Committee (To Be Confirmed)
 - Chris Cummins (Meta, USA, Research Software Engineer) 
 - Pavlos Petoumenos (University Of Manchester, UK, Assistant Professor)
 - EunJung Park (Qualcomm, USA, Compiler Engineer) 
