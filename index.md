@@ -76,6 +76,7 @@ Camera-ready papers: March 13, 2024
 
 **Full papers** may not exceed 8 single-spaced double-column pages.
 
+Papers must be submitted through HotCRP: https://eswml24.hotcrp.com/
 
 ---
 ---
