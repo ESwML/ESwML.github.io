@@ -14,7 +14,6 @@ This workshop will actively drive discussion and aim to answer the following que
 - How can we seamlessly integrate ML models into applications to improve their performance while ensuring the correctness of  the generated outputs?
 
 ---
----
 
 # Committees
 
@@ -24,6 +23,7 @@ This workshop will actively drive discussion and aim to answer the following que
 - William Moses (University of Illinois Urbana Champaign, USA), wsmoses at illinois.edu
 - Konstantinos Parasyris (Lawrence Livermore National Laboratory, USA) parasyris1 at llnl.gov
 
+<!---
 ## Program Committee (To Be Confirmed)
 - Chris Cummins (Meta, USA, Research Software Engineer) 
 - Pavlos Petoumenos (University Of Manchester, UK, Assistant Professor)
@@ -45,8 +45,7 @@ This workshop will actively drive discussion and aim to answer the following que
 - Thaleia Dimitra Doudali (IMDEA Software, Spain, Assistant professor)
 - Albert Njoroge Kahira (Jülich Supercomputing Centre, Germany, Research Scientist)
 - Paul M Carpenter (BSC, Spain, Senior Research Scientist)
-
----
+-->
 ---
 
 # Registration
