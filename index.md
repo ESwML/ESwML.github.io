@@ -14,7 +14,26 @@ This workshop will actively drive discussion and aim to answer the following que
 - How can we seamlessly integrate ML models into applications to improve their performance while ensuring the correctness of  the generated outputs?
 
 ---
+# Program
+April 22nd, 2024
 
+14:00 - 14:45 (incl. 10 min Q&A)
+## Is Machine Learning Necessary to Use in Cloud Resource Management?
+**Thaleia Dimitra Doudali, IMDEA Software Institute, Madrid, Spain**
+ 
+14:45 - 15:30 (incl. 10 min Q&A)
+## Towards Transparency in Computational Footprint of Deep Learning
+**Pinar Tözün, IT University of Copenhagen, Denmark**
+ 
+15:30 - 16:15 (incl. 10 min Q&A) 
+## Challenges and Automation When Using Machine Learning Surrogates in Scientific Applications
+** Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA ** 
+
+16:15 - 17:00 (incl. 10 min Q&A) 
+## Smart-PGSim: Using Neural Network to Accelerate AC-OPF Power Grid Simulation
+** Dong Li, University of California, Merced, CA USA **
+
+---
 # Committees
 
 ## Workshop Co-chairs
