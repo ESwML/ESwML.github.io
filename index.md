@@ -95,11 +95,11 @@ Topics of interest to the ML4SW workshop include but are not limited to:
 
 
 # Important Deadlines
-Submission due date: February 15, 2024 (AoE)
+~~Submission due date: February 15, 2024 (AoE)~~
 
-Author notification: March 8, 2024
+~~Author notification: March 8, 2024~~
 
-Camera-ready papers: March 13, 2024
+~~Camera-ready papers: March 13, 2024~~
 
 # Submission
 
