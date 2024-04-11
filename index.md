@@ -17,21 +17,32 @@ This workshop will actively drive discussion and aim to answer the following que
 # Program
 April 22nd, 2024
 
-14:00 - 14:45 (incl. 10 min Q&A)
-## Is Machine Learning Necessary to Use in Cloud Resource Management?
-**Thaleia Dimitra Doudali, IMDEA Software Institute, Madrid, Spain**
- 
-14:45 - 15:30 (incl. 10 min Q&A)
-## Towards Transparency in Computational Footprint of Deep Learning
-**Pinar Tözün, IT University of Copenhagen, Denmark**
- 
-15:30 - 16:15 (incl. 10 min Q&A) 
-## Challenges and Automation When Using Machine Learning Surrogates in Scientific Applications
-** Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA ** 
+### Session 1
 
-16:15 - 17:00 (incl. 10 min Q&A) 
-## Smart-PGSim: Using Neural Network to Accelerate AC-OPF Power Grid Simulation
-** Dong Li, University of California, Merced, CA USA **
+13:45 - 14:30 (incl. 10 min Q&A)
+
+**Is Machine Learning Necessary to Use in Cloud Resource Management?** \
+Thaleia Dimitra Doudali, IMDEA Software Institute, Madrid, Spain
+
+ 
+14:30 - 15:15 (incl. 10 min Q&A)
+
+**Towards Transparency in Computational Footprint of Deep Learning** \
+Pinar Tözün, IT University of Copenhagen, Denmark
+
+### Coffee Break (15:15 - 15:45)
+
+### Session 2
+
+15:45 - 16:30 (incl. 10 min Q&A)
+
+**Challenges and Automation When Using Machine Learning Surrogates in Scientific Applications** \
+Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+
+16:15 - 17:15 (incl. 10 min Q&A)
+
+**Smart-PGSim: Using Neural Network to Accelerate AC-OPF Power Grid Simulation** \
+Dong Li, University of California, Merced, CA USA
 
 ---
 # Committees
