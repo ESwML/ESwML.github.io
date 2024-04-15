@@ -36,10 +36,10 @@ Pinar Tözün, IT University of Copenhagen, Denmark
 
 15:45 - 16:30 (incl. 10 min Q&A)
 
-**Challenges and Automation When Using Machine Learning Surrogates in Scientific Applications** \
+**Auto-HPCnet: an Automatic Framework to Build Neural Network-based Surrogate for HPC Applications** \
 Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
 
-16:15 - 17:15 (incl. 10 min Q&A)
+16:30 - 17:15 (incl. 10 min Q&A)
 
 **Smart-PGSim: Using Neural Network to Accelerate AC-OPF Power Grid Simulation** \
 Dong Li, University of California, Merced, CA USA
