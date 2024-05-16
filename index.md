@@ -31,12 +31,15 @@ April 22nd, 2024
 
 **Is Machine Learning Necessary to Use in Cloud Resource Management?** \
 Thaleia Dimitra Doudali, IMDEA Software Institute, Madrid, Spain
+<a href='2024-ESwML-Thaleia.pdf'>[Slides]</a>
+
 
  
 14:30 - 15:15 (incl. 10 min Q&A)
 
 **Towards Transparency in Computational Footprint of Deep Learning** \
 Pinar Tözün, IT University of Copenhagen, Denmark
+<a href='2024-ESwML-Pinar.pdf'>[Slides]</a>
 
 ### Coffee Break (15:15 - 15:45)
 
@@ -46,11 +49,13 @@ Pinar Tözün, IT University of Copenhagen, Denmark
 
 **Challenges and Automation When Using Machine Learning Surrogates in Scientific Applications** \
 Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+<a href='2024-ESwML-Dinos.pptx'>[Slides]</a>
 
 16:30 - 17:15 (incl. 10 min Q&A)
 
 **Auto-HPCnet: an Automatic Framework to Build Neural Network-based Surrogate for HPC Applications** \
 Dong Li, University of California, Merced, CA USA
+<a href='2024-ESwML_auto-hpcnet.pdf'>[Slides]</a>
 
 ---
 # Committees
