@@ -18,7 +18,7 @@ This workshop will actively drive discussion and aim to answer the following que
 
 <figure>
  <center>
-  <img src="ESwML-pics.jpg" alt="Workshop" height="700"/>
+  <img src="ESwML-pics.jpg" alt="Workshop"/>
  </center>
 </figure>
 
@@ -30,7 +30,7 @@ April 22nd, 2024
 13:45 - 14:30 (incl. 10 min Q&A)
 
 **Is Machine Learning Necessary to Use in Cloud Resource Management?** \
-Thaleia Dimitra Doudali, IMDEA Software Institute, Madrid, Spain
+Thaleia Dimitra Doudali, IMDEA Software Institute, Madrid, Spain \
 <a href='2024-ESwML-Thaleia.pdf'>[Slides]</a>
 
 
@@ -38,7 +38,7 @@ Thaleia Dimitra Doudali, IMDEA Software Institute, Madrid, Spain
 14:30 - 15:15 (incl. 10 min Q&A)
 
 **Towards Transparency in Computational Footprint of Deep Learning** \
-Pinar Tözün, IT University of Copenhagen, Denmark
+Pinar Tözün, IT University of Copenhagen, Denmark \
 <a href='2024-ESwML-Pinar.pdf'>[Slides]</a>
 
 ### Coffee Break (15:15 - 15:45)
@@ -48,13 +48,13 @@ Pinar Tözün, IT University of Copenhagen, Denmark
 15:45 - 16:30 (incl. 10 min Q&A)
 
 **Challenges and Automation When Using Machine Learning Surrogates in Scientific Applications** \
-Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA
+Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA \
 <a href='2024-ESwML-Dinos.pptx'>[Slides]</a>
 
 16:30 - 17:15 (incl. 10 min Q&A)
 
 **Auto-HPCnet: an Automatic Framework to Build Neural Network-based Surrogate for HPC Applications** \
-Dong Li, University of California, Merced, CA USA
+Dong Li, University of California, Merced, CA USA \
 <a href='2024-ESwML_auto-hpcnet.pdf'>[Slides]</a>
 
 ---
