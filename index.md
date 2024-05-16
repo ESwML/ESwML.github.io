@@ -15,6 +15,14 @@ This workshop will actively drive discussion and aim to answer the following que
 
 ---
 # Program
+
+<figure>
+ <center>
+  <img src="ESwML-pics.jpg" alt="Workshop" height="700"/>
+ </center>
+</figure>
+
+
 April 22nd, 2024
 
 ### Session 1
