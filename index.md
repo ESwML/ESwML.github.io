@@ -14,6 +14,7 @@ This workshop will actively drive discussion and aim to answer the following que
 - How can we seamlessly integrate ML models into applications to improve their performance while ensuring the correctness of  the generated outputs?
 
 ---
+<!---
 # Program
 
 <figure>
@@ -56,14 +57,13 @@ Konstantinos Parasyris, Lawrence Livermore National Laboratory, USA \
 **Auto-HPCnet: an Automatic Framework to Build Neural Network-based Surrogate for HPC Applications** \
 Dong Li, University of California, Merced, CA USA \
 <a href='2024-ESwML_auto-hpcnet.pdf'>[Slides]</a>
-
+-->
 ---
 # Committees
 
 ## Workshop Co-chairs
 - Florina Ciorba (University of Basel, Switzerland), florina.ciorba at unibas.ch
 - Harshitha Menon (Lawrence Livermore National Laboratory, USA), harshitha at llnl.gov
-- William Moses (University of Illinois Urbana Champaign, USA), wsmoses at illinois.edu
 - Konstantinos Parasyris (Lawrence Livermore National Laboratory, USA) parasyris1 at llnl.gov
 
 <!---
@@ -108,11 +108,11 @@ Topics of interest to the ML4SW workshop include but are not limited to:
 
 
 # Important Deadlines
-~~Submission due date: February 15, 2024 (AoE)~~
+~Submission due date: February 15, 2025 (AoE)~
 
-~~Author notification: March 8, 2024~~
+~Author notification: March 8, 2025~
 
-~~Camera-ready papers: March 13, 2024~~
+~Camera-ready papers: March 13, 2025~
 
 # Submission
 
