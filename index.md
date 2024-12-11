@@ -12,5 +12,6 @@ The workshops on Empowering Software Development through Machine Learning (eSwML
 4. How can we seamlessly integrate ML models into applications to improve their performance while ensuring the correctness of the generated outputs?
 
 # Workshops: 
-- [The First workshop in Empowering Software through Machine Learning (ESwML)](2024/2024.md) co-located with [EuroSys-2024](https://2024.eurosys.org/)
+- [The First Workshop in Empowering Software through Machine Learning (ESwML)](2024/2024.md) co-located with [EuroSys-2024](https://2024.eurosys.org/)
+- [The Second Workshop in Empowering Software through Machine Learning (ESwML)](2025/2025.md) co-located with [EuroSys-2025](https://2025.eurosys.org/index.html), [ASPLOS-2025](https://www.asplos-conference.org/asplos2025/)
 
