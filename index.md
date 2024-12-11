@@ -15,5 +15,5 @@ These workshops actively drive discussion and aim to answer the following questi
 
 
 # Events 
-- [The First workshop in Empowering Software through Machine Learning (ESwML)](2024.md) co-located with [EuroSys-2024](https://2024.eurosys.org/)
+- [The First workshop in Empowering Software through Machine Learning (ESwML)](2024/2024.md) co-located with [EuroSys-2024](https://2024.eurosys.org/)
 
