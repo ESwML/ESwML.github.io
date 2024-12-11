@@ -1,8 +1,3 @@
----
-layout: with-sidebar
-title: Home
----
-
 # Empowering Software through Machine Learning (ESwML)
 
 # Overview
