@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 
-title: "ESwML 2024"
+title: "ESwML"
 description: "Empowering Software through Machine Learning (ESwML)"
 show_downloads: false
-sidebar:
-  - [2024](https://eswml.github.io/2024/2024.html) 
 
