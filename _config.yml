@@ -1,12 +1,8 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 
 title: "ESwML 2024"
 description: "Empowering Software through Machine Learning (ESwML)"
 show_downloads: false
-navbar:
-  - title: Home
-    url: /
-  - title: Past Workshops
-    dropdown:
-      - title: 2024
-        url: https://eswml.github.io/2024/2024.html
+sidebar:
+  - [2024](https://eswml.github.io/2024/2024.html) 
+
