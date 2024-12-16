@@ -1,4 +1,4 @@
-# Empowering Software through Machine Learning (ESwML)
+# Empowering Software Development through Machine Learning (ESwML)
 
 # Overview
 The software of tomorrow will rely heavily on the use of Machine Learning models. This will span various aspects including using ML models during the development time to enhance developer productivity, designing ML heuristics to incorporate within applications to replace expensive computations and accelerate their performance. However, several challenges limit the widespread adoption of ML in today's software and constrain current and future software development.
